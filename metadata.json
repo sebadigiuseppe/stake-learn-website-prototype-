@@ -1,0 +1,6 @@
+{
+  "name": "StakeLearn - Cursos con Depósito y Mentorías",
+  "description": "Plataforma de cursos, proyectos y consultorías con sistema de depósito reembolsable al completar, incentivo al profesor o conversión a mentoría 1 a 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
